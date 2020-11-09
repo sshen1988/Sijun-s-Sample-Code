@@ -1,0 +1,2 @@
+# develop_trace_2.do
+This script used the simulation to conduct power analysis in Stata. As some complete formula for some power calculatons are not avaiable, we used the Powersim function in Stata to simulate the power for the interaction term in the Poisson Regression model.
